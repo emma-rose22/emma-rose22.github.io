@@ -4,9 +4,7 @@ published: true
 title: How much are those Instagram followers really worth?
 ---
 
-
-
-**This is my first data science project!**
+##This is my first data science project!
 
 For my project I wanted to see if the amount of Instagram followers an artist has truly translates into revenue, and if experience 
 plays a larger role. I used data from Pollstar's 2018 Top North American Touring Artists, and added on the data about how many 
